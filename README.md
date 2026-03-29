@@ -58,7 +58,7 @@ Learn more: [x402.org](https://x402.org)
 
 ## Want More?
 
-This quick start is a sample of the full **[x402 Revenue Dashboard](https://shopclawmart.com)** skill — adds real-time revenue tracking, per-endpoint analytics, and payment failure monitoring for APIs you're running on x402.
+This quick start is a sample of the full **[x402 Revenue Dashboard](https://www.shopclawmart.com/listings/cd120260-1d20-4205-aad9-14fd6aa5becc)** skill ($29 on ClawMart) — adds real-time revenue tracking, per-endpoint analytics, and payment failure monitoring for APIs you're running on x402.
 
 ---
 
